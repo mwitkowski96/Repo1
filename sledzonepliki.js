@@ -1,0 +1,1 @@
+Wszystkie zmiany są śledzone, wszystkich plików. Po prostu się nie uploaduja.
